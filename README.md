@@ -4,9 +4,10 @@
 
 * [errors.md](./errors.md) - Descriptions of possible error messages.
 
-* [resources.md](./resources.md) - Details of response.
-
-
 The following projects will help you interact with the P2B API:
 
 * [PHP](https://github.com/P2B-team/php-p2b-api)
+
+# WebSocket API
+
+- [WebSocket API](https://github.com/P2B-team/P2B-WSS-Public/blob/main/wss_documentation.md)

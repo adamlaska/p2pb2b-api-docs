@@ -912,7 +912,7 @@ curl --location 'https://api.p2pb2b.com/api/v2/orders' \
 
 ### Orders history by market
 
-Query orders history. Note, only filled or partially filled and canceled orders are returning.
+Query orders history. Note, only filled or partially filled are returning.
 Only the transaction records in the past 3 month can be queried.
 
 ```
